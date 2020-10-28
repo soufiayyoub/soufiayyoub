@@ -16,7 +16,6 @@
 
 <br />
 
-<details>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soufiayyoub&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=soufiayyoub&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
