@@ -1,7 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=soufiayyoub)
 
-### Quik introduction:
-**Hi there, I'm Ayyoub soufi, freshly graduated with a bachelor degree 🚀, I am a passionate and ambitious web developer who like working with new technologies and frameworks like laravel, vue and angular, and ionic.**
+**Hi there, I'm Ayyoub soufi, I am a passionate and ambitious web developer who like working with new technologies like laravel, vue and angular, and ionic.**
 
 <br />
 
